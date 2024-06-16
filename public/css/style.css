@@ -1,0 +1,17 @@
+.navbar {
+    background-color: #f8f9fa;
+    height: 70px;
+}
+.logo {
+    font-weight: bold;
+    font-size: 25px;
+}
+.banner {
+    background-image: url(/asset/image/bg-beach.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 22%;
+    padding-bottom: 22%;
+    color: white;
+}
